@@ -1,10 +1,11 @@
 /* ------------------------------------------ Body -------------------------------------------------------*/
-
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
 body{text-align: center}
+
 
 /* ------------------------------------------ Cabeçalho ------------------------------------------------------*/
 
-#titulo{ font-size: 100px; color: blue;}
+#titulo{ font-size: 100px; color: blue; font-family: 'Dancing Script', cursive;}
 
 /* -------------------------------------------- Motivos --------------------------------------------------------*/
 
