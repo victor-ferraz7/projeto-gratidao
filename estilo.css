@@ -13,6 +13,7 @@ body input{font-family: 'Handlee', cursive;}
 /* -------------------------------------------- Motivos --------------------------------------------------------*/
 main div {font-family: 'Handlee', cursive;}
 main div .input-group{font-family: 'Handlee', cursive;} 
+main div .input-group button{font-family: 'Handlee', cursive;} 
 
 ul li{list-style: none;font-family: 'Handlee', cursive;}
 a {text-decoration: none;}
