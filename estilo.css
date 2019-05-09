@@ -1,19 +1,18 @@
 /* ------------------------------------------ Body -------------------------------------------------------*/
 @import url('https://fonts.googleapis.com/css?family=Dancing+Script');
 @import url('https://fonts.googleapis.com/css?family=Handlee');
+
 body{text-align: center; background-color: #71a6d2;}
-
-body input{font-family: 'Handlee', cursive;} 
-
 
 /* ------------------------------------------ Cabeçalho ------------------------------------------------------*/
 
-#titulo{ font-size: 100px; color: blue; font-family: 'Dancing Script', cursive;}
+header h1{ font-size: 100px; color: blue; font-family: 'Dancing Script', cursive; margin-bottom: 3%; margin-top: 3%;}
 
 /* -------------------------------------------- Motivos --------------------------------------------------------*/
-main div {font-family: 'Handlee', cursive;}
-main div .input-group{font-family: 'Handlee', cursive;} 
-main div .input-group button{font-family: 'Handlee', cursive;} 
+main div {font-family: 'Handlee', cursive; font-size: 18px}
+main div .input-group{font-family: 'Handlee', cursive;margin-bottom: 2%;} 
+main div .input-group input{font-family: 'Handlee', cursive;font-size: 16px} 
+main div .input-group button{font-family: 'Handlee', cursive;font-size: 16px} 
 
 ul li{list-style: none;font-family: 'Handlee', cursive;}
 a {text-decoration: none;}
